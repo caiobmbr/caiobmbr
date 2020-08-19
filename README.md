@@ -1,8 +1,8 @@
-[![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/caiobmbr/caiobmbr/master/banner_v2.0.png">
 </p>
+
+[![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues)
 
 # Caio Melo
 <sub>*Engenheiro de Distribuição* na Energisa Tocantins</sub>
@@ -22,7 +22,7 @@
 Veja as análises e projetos publicados no meu canal do Medium:
 
 * **Analisando os Dados do Airbnb - Buenos Aires:** https://bit.ly/2E4dV5J (Link Github https://bit.ly/3faNMzd)
-* **Analisando a Violência no Rio de Janeiro** (Link Github https://bit.ly/2XXTX3R)
+* **Analisando a Violência no Rio de Janeiro** https://bit.ly/3hbzHmN (Link Github https://bit.ly/2XXTX3R)
 
 ---
 
