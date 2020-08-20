@@ -5,7 +5,7 @@
 [![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues)
 
 # Caio Melo
-* **Engenheiro de Distribuição** * na Energisa Tocantins
+***Engenheiro de Distribuição*** na Energisa Tocantins
 
 <p align="justify">Sou formado em Engenharia Elétrica pela UFMG e atualmente trabalhando no ramo de distribuição de energia na concessão do estado do Tocantins que faz parte do grupo Energisa. Sempre fui um entusiasta de tecnologia, análise de dados e o processo de tomada de decisão.</p> 
 
