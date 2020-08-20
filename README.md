@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/caiobmbr/caiobmbr/master/banner_v2.0.png">
 </p>
 
-[![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiobm/)](https://www.linkedin.com/in/caiobm/) [![author](https://img.shields.io/badge/author-Caio%20Melo-red)](https://www.linkedin.com/in/caiobm/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiobmbr/datascience-projects/issues) 
 
 # Caio Melo
 ***Engenheiro de Distribuição*** na Energisa Tocantins
